@@ -8,20 +8,20 @@ use Illuminate\Support\Facades\Auth;
 
 use App\Models\User;
 
-use App\models\Product;
+use App\Models\Product;
 
-use App\models\Cart;
+use App\Models\Cart;
 
-use App\models\Order;
+use App\Models\Order;
 
 use Session;
 
 use Stripe;
 
-use App\models\Comment;
+use App\Models\Comment;
 
 
-use App\models\Reply;
+use App\Models\Reply;
 
 use RealRashid\SweetAlert\Facades\Alert;
 
